@@ -1,0 +1,4 @@
+jp\klneg\dev\endsWhenOnePersonDies\Messanger\PlayerTransfer.class
+jp\klneg\dev\endsWhenOnePersonDies\Scheduler\ServerRestartScheduler.class
+jp\klneg\dev\endsWhenOnePersonDies\EndsWhenOnePersonDies.class
+jp\klneg\dev\endsWhenOnePersonDies\EventHandler\PlayerDeathEventListener.class

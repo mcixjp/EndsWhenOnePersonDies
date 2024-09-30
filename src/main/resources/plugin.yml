@@ -1,0 +1,6 @@
+name: EndsWhenOnePersonDies
+version: '1.0-Remo'
+main: jp.klneg.dev.endsWhenOnePersonDies.EndsWhenOnePersonDies
+api-version: '1.21'
+authors: [ Cyrus ]
+description: HardCore automatic progression
