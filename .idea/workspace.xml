@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17155ad4-ab23-4389-9bf8-48ad7e31f03b" name="Changes" comment="upload files." />
+    <list default="true" id="17155ad4-ab23-4389-9bf8-48ad7e31f03b" name="Changes" comment="upload files.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/CommandListener/CheckPlayerDeathCountCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/CommandListener/CheckPlayerPositionCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/CommandListener/DeathPointTeleportCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/EventHandler/PlayerFirstJoinEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/Util/PlayerDeathEventCountSaver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/EndsWhenOnePersonDies-1.0-Remo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/EndsWhenOnePersonDies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/PlayerDeathEventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/PlayerTransfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/ServerRestartScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/original-EndsWhenOnePersonDies-1.0-Remo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/EndsWhenOnePersonDies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/EndsWhenOnePersonDies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/EventHandler/PlayerDeathEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/EventHandler/PlayerDeathEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/Scheduler/ServerRestartScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/klneg/dev/endsWhenOnePersonDies/Runnable/ServerRestartScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/EndsWhenOnePersonDies-1.0-Remo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jp/klneg/dev/endsWhenOnePersonDies/EndsWhenOnePersonDies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jp/klneg/dev/endsWhenOnePersonDies/EndsWhenOnePersonDies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jp/klneg/dev/endsWhenOnePersonDies/EventHandler/PlayerDeathEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jp/klneg/dev/endsWhenOnePersonDies/EventHandler/PlayerDeathEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jp/klneg/dev/endsWhenOnePersonDies/Scheduler/ServerRestartScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-EndsWhenOnePersonDies-1.0-Remo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-EndsWhenOnePersonDies-1.0-Remo.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,27 +79,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.EndsWhenOnePersonDies [clean,package].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "0ba391b1",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/cyrus/IdeaProjects/MCBAD/EndsWhenOnePersonDies",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.EndsWhenOnePersonDies [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cyrus/Documents/EndsWhenOnePersonDies&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cyrus\Documents\EndsWhenOnePersonDies\src\main\resources" />
+      <recent name="C:\Users\cyrus\Documents\EndsWhenOnePersonDies\src\main\resources\songs" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="EndsWhenOnePersonDies [clean,package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="corretto-22" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
             <option name="cmdOptions" />
@@ -99,8 +153,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -115,6 +169,17 @@
       <workItem from="1727652135073" duration="3062000" />
       <workItem from="1727656607053" duration="7831000" />
       <workItem from="1727666408045" duration="128000" />
+      <workItem from="1727778785416" duration="9797000" />
+      <workItem from="1728176756201" duration="6380000" />
+      <workItem from="1728652223294" duration="6867000" />
+      <workItem from="1729693893775" duration="1207000" />
+      <workItem from="1729952968424" duration="5824000" />
+      <workItem from="1729959566013" duration="14000" />
+      <workItem from="1729959588024" duration="452000" />
+      <workItem from="1729960369795" duration="5944000" />
+      <workItem from="1729987177922" duration="3496000" />
+      <workItem from="1729991541050" duration="2488000" />
+      <workItem from="1730004412689" duration="768000" />
     </task>
     <task id="LOCAL-00001" summary="upload files.">
       <option name="closed" value="true" />
@@ -129,6 +194,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.spigotmc:spigot-api" />
+    <option featureType="dependencySupport" implementationName="java:net.kyori:adventure-api" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

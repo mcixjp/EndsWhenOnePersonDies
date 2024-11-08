@@ -1,4 +1,4 @@
-package jp.klneg.dev.endsWhenOnePersonDies.Scheduler;
+package jp.klneg.dev.endsWhenOnePersonDies.Runnable;
 
 import jp.klneg.dev.endsWhenOnePersonDies.Messanger.PlayerTransfer;
 import net.md_5.bungee.api.ChatMessageType;

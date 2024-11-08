@@ -1,2 +1,6 @@
 lobbyName: lobby
 PlayerDeathCounter: 0
+DeathSong: undertale.nbs
+
+PlayerDCount:
+  
